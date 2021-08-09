@@ -3,7 +3,7 @@ import React from 'react'
 export default function Adventure() {
     return (
         <div>
-                      
+             <h1>Adventure</h1>         
     <div className="container cont">
         <div className="row">
             <div className="col-md-3 mt-4">

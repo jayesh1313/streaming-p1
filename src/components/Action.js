@@ -3,7 +3,7 @@ import React from 'react';
 export default function Action() {
     return (
         <div>
-                      
+                     <h1>Action</h1> 
     <div className="container cont">
         <div className="row">
             <div className="col-md-3 mt-4">
