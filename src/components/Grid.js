@@ -1,5 +1,5 @@
 import React from 'react'
-import '../stylesheets/grid.css';
+import '../stylesheet/Grid.css';
 export default function Grid() {
     return (
         <div className="abc">
