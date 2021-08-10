@@ -14,7 +14,7 @@ export default function Grid() {
                     <div className="card-body">
                         <h3 className="abv">Iron Man 3</h3>
                         
-                        <a href="https://youtu.be/8ugaeA-nMTc">
+                        <a href="https://youtu.be/S5968KzDDGk">
                         <button className="btn btn-success mt-4 float-end">Watch Now</button>
                         </a>
                     </div>
@@ -29,7 +29,7 @@ export default function Grid() {
                     <div className="card-body">
                         <h3>Black Widow</h3>
                         {/* <p className="text-muted">9.2</p> */}
-                        <a href="https://youtu.be/Fp9pNPdNwjI">
+                        <a href="https://youtu.be/3c06SARSbKE">
                         <button className="btn btn-success mt-4 float-end">Watch Now</button>
                         </a>
                     </div>
@@ -59,7 +59,7 @@ export default function Grid() {
             <div className="card-body">
            <h3>Kabir Singh</h3>
             {/* <p className="text-muted">9.2</p> */}
-            <a href="https://youtu.be/RiANSSgCuJk">
+            <a href="https://youtu.be/4D2woHMtStY">
            <button className="btn btn-success mt-4 float-end">Watch Now</button>
            </a>
    </div>
